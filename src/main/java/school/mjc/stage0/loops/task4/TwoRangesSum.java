@@ -18,8 +18,8 @@ public class TwoRangesSum {
                     sumCount = sumCount + i;
                 }
             }
-            System.out.println("skipped sum is number" + "" + sumSkip);
-            System.out.println("counted sum is number" + "" + sumCount);
+            System.out.println("skipped sum is" + " " + sumSkip);
+            System.out.println("counted sum is" + " " + sumCount);
         }
     }
 }
